@@ -1,5 +1,10 @@
-# 💫 About Me:
- I'm passionate about solving problems, writing clean code, and building my path toward becoming a software engineer.<br>Currently focused on mastering data structures, algorithms, and building real-world projects.<br><br>
+### 👋 Hi, I'm Mahfuz Rana!
+
+🧑‍💻 Aspiring Software Engineer passionate about solving problems and building real-world projects  
+🎓 Studying **Computer Science** at **CUNY Hunter College**  
+💻 Currently strengthening my skills in **data structures and algorithms** through **LeetCode** and personal projects  
+🌱 #learninginpublic by documenting my coding journey  
+🚀 Always exploring new tools and technologies in software development
 
 
 ## 🌐 Socials:
